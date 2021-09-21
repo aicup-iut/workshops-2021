@@ -1,7 +1,8 @@
-# workshops-2
+# workshop-2
 + continue coding for game
 + Coding simple C++ client
 
-## workshop video link:
+## workshop video link: [ Aparat](https://www.aparat.com/v/LXKEv/)
+
 
 
